@@ -6,4 +6,6 @@ It's one of my dreams to work on data science for a basketball team, especially 
 
 My main code is at index.py. I wasn't sure if I was allowed to use Pandas or if I had to use the built-in libraries, so I did it both ways. 
 
+Check out [my personal website](andykamath.com) to learn more about me!
+
 Look forward to hearing back from you!
